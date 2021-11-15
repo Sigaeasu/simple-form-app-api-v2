@@ -1,4 +1,4 @@
-# simple-form-app-api
+# simple-form-app-api-v2
 
 ## Project setup
 ```
